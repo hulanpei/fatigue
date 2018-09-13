@@ -10,7 +10,7 @@ OpenCV, Object Detection, Image Process, Python
 
 ## 專利
 
-因本專案限定使用 Webcam 又要將影像傳輸到使用者瀏覽器，所以本人申請了兼具辨識與傳輸功能之 Webcam [專利](https://github.com/hulanpei/fatigue/blob/master/resources/%E5%85%B7%E8%BE%A8%E8%AD%98%E8%88%87%E5%82%B3%E8%BC%B8%E5%8A%9F%E8%83%BD%E4%B9%8B%20Webcam%202018-7-30.pdf)：
+因本專案限定使用 Webcam 又要將影像傳輸到使用者瀏覽器，所以本人申請了兼具辨識與傳輸功能之 Webcam：
 
 ![](https://github.com/hulanpei/fatigue/blob/master/resources/architecture.png)
 
