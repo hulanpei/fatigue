@@ -5,7 +5,7 @@
 ## 主要技術
 
 ```
-OpenCV, Object Detection, Image Process, Python
+OpenCV, Object Detection, Image Process, Python, Flask
 ```
 
 ## 專利
